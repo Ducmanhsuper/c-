@@ -1,0 +1,62 @@
+Bài 1: 
+nhập một dãy số từ 1 đến n với n được nhập từ bàn phím, kiểm tra số đó là chẵn hay lẽ: 
+
+input: 3 --> output: 3 la so le; 
+input: 4 --> output: 4 la so chan; 
+
+gợi ý: số chẵn là số chia hết cho 2
+dùng điều kiện: 
+
+
+Bài 2: cho một dãy số từ 1 đến 10; hãy tính tổng các số đó mà không dùng vòng lặp và câu điều kiện; 
+gợi ý: cấp số cộng: 
+
+
+
+Bài 3:  Hãy tìm ra các ước của một số bất kì được nhập từ bàn phím: 
+
+
+input: 5 --> output: 1 5; 
+input 4: --> output: 1 2 4; 
+
+
+Bài 4:  Cho một dãy số từ 1 đến 9; hãy kiểm tra xem số nào là số nguyên tố: 
+
+Gợi ý: số nguyên tố là số chia hết cho 1 và chính nó: 
+
+
+Bài 5: Lan đi mua chợ mà bỏ quên máy tính ở nhà: 
+em hãy viết chương trình tính toán cơ bản khi Lan mua cam với giá tiền 15k và mua ổi với giá tiền 48k; 
+
+gợi ý: số tiền được nhập từ bàn phím. 
+
+
+Bài 6: Tam giác định lý: 
+
+hãy kiểm tra xem các số a b c được nhập vào bàn phím có thỏa mãn điều kiện là một tam giác: 
+
+gợi ý: 3 cạnh là một tam giác khi tổng 2 cạnh lớn hơn cạnh còn lại ( thỏa mãn đồng thời); 
+
+
+
+Bài 7: Hình tròn động: 
+
+bán kính của một hình tròn được nhập từ bàn phím, số PI = 3.14; 
+hãy viết một chương trình in ra màn hình chu vi và diện tích của hình tròn đó; 
+
+Bài 8: Tháng ngày mong manh
+
+Hãy kiểm tra xem tháng 6 hoặc các tháng còn lại có bao nhiêu ngày: 
+
+input: th2 --> output: 29days; 
+
+
+
+Bài 8: Nhập vào một dãy số từ 1 đến n; 
+kiểm tra xem có bao nhiêu số chia hết cho 7 và tính tổng các số đó
+gợi ý: số chia hết cho 7 là bội của 7
+
+
+
+Bài 9; kiểm tra xem các số có phải là số nguyên tố hay không trong 1 dãy từ 1 đến n ( 1 < n < 20); 
+
