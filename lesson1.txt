@@ -1,0 +1,97 @@
+
+
+// kiểu dữ liệu 
+
+// int ( integer; long; .. ); 
+
+// float, double; 
+
+// char; 
+
+// string; 
+
+
+
+// yêu cầu tính tổng từ 1 cho đến n ( 1<n<10); 
+
+// 1+2+3+4+5+6+7..+10; 
+
+
+// + số nguyên 
+// + số thực 
+// + kí tự 
+// + chuỗi ---> string 
+// + mảng -->   array; 
+
+
+
+// câu điều kiện 
+
+
+
+
+// vòng lặp 
+
+// quy tắc định sẵn, giúp thực hiện công việc  lặp đi lặp lại một cách nhanh chóng; 
+
+// for ( giatridauvao; dieukienketthuc; buocnhay) {
+
+// code; 
+
+
+
+// tính tổng từ 1 đến 9 với số chẵn; 
+#include <iostream> 
+using namespace std; 
+int i,sum, sum1; 
+int main () {
+
+
+for (i = 2; i < 10; i = i + 2 ){
+sum = sum +i; 
+}
+
+
+// cách 2:
+for ( i = 1; i < 10; i = i + 1) {
+if ( i  % 2 == 0 ) {
+    sum1 = sum1 + i; 
+}
+}
+
+//% 
+// số chẵn: là 1 số chia hết cho 2: 
+// i = 2; sum = 2; 
+// i = 4; sum = 2+4 = 6; 
+// i = 6; sum = 6+6 = 12; 
+// i = 8; sum = 12+8 = 20; 
+cout <<sum1<<endl; 
+cout <<sum; 
+    return 0; 
+}
+
+
+
+// khi không nhập tên người dùng hoặc là mật khẩu: yêu cầu nhập.. 
+
+// chưa đăng nhập 
+
+
+// ìf else giải quyết được điều này: 
+// cú pháp: 
+
+
+// if ( điều kiện ) {
+//     câu lệnh
+// }
+// else {
+//     câu lệnh 
+// }
+
+
+
+
+// kiểm tra 1 số có phải là số chẵn không; 
+
+// 3 --> 3 không phải là số chẵn
+// 2 --> 2 là số chẵn 
