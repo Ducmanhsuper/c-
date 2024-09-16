@@ -1,0 +1,90 @@
+// nhap so 8 
+
+//1 2 3 4 5 6 7 8
+
+
+// 8 chia het dho 
+
+// 1
+// 2
+// 4 
+// 8
+
+// //:
+
+// mảng: tập hợp của nhiều phần tử: 
+
+// tui muốn tạo 1 mảng số nguyên gồm 10 phần tử;  
+// int  arr[10]; 
+
+
+// những phương thức làm việc: 
+
+
+// 1 2 3 4 5 6 7 8. 
+// 0 1 2 3 4 5 6 7
+
+// độ dài là n phần tử // thì chỉ mục là n - 1; 
+
+// cout<<<arr[4]
+
+
+#include <iostream>
+using namespace std; 
+// int a,b,c, tong;
+
+int main () {
+//  a = 0; 
+// b = 0; 
+// c = 0;
+// cin>>a,b,c; 
+// tong = a + b + c;  // tong = 0; 
+int a =23; 
+int n; 
+cout<<"gia tien can nhap la:";
+cin>>n; 
+
+
+// data__type tenbien; 
+
+// int, long, double, float, long long, char
+
+
+// 
+
+// + - * / %
+
+// if ( n % 2 == 0)
+
+// if ( n % 2 == 0) {
+//     cout<<n<<" la so chan"; 
+// }
+// else {
+//     cout<<n<<" khong la so chan"; 
+// }
+
+// int c = 7 % 2; 
+// cout<<c; 
+
+
+
+
+// int arr[10] = {1,2,3,4,5,6,7,8}; 
+
+// for ( i = 0; i < n)
+// cout<<arr[4]; 
+
+// arr[4] = 10; 
+
+// cout<<arr[4]; 
+
+// cout<<tong; 
+}
+
+
+// chp 1 mảng gồm 6 phần tử và kiểm tra xem phần tử nào chia hết cho 2
+// s
+
+
+// 6 co 1,2,3,6; 
+
