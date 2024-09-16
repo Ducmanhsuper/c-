@@ -60,3 +60,42 @@ gợi ý: số chia hết cho 7 là bội của 7
 
 Bài 9; kiểm tra xem các số có phải là số nguyên tố hay không trong 1 dãy từ 1 đến n ( 1 < n < 20); 
 
+Bài 10: Kiểm tra bằng 10
+nhập một số a bất kì, hãy kiểm tra xem nó có bằng 10 hay không 
+//input: a = 10; output: a bang 10; 
+// input a = 9; output : a khong bang 10; 
+
+
+Bài 11: hãy tính tổng các số từ một tới 10 bằng cấp số cộng 
+
+Bài 12: Máy tính: 
+viết chương trình sử dụng switch case để tính các số a và b; 
+input: 3 4 + 
+output: 7; 
+input: 3 4 *
+output: 12; 
+
+Bài 13:  Thời tiết: 
+trời đang nóng, bạn hãy in ra giá trị hiện tại của nhiệt độ C biết nhiệt độ F là 100.4000 độ F
+gợi ý: Độ F = (Độ C × 9/5) + 32; 
+Bài 14: mảng số tự nhiên 
+Hãy kiểm tra xem phần tử nào chia hết cho 2 trong mảng từ 1 đến 10; 
+Bài 15: Hoán đổi 
+biết a = 10; b = 5; 
+hãy hoán đổi vị trí giá trị của biến sao cho a = 5; b = 10; 
+
+Bài 16: Tương tác: 
+Hãy viết chương trình nhập vào một mảng các giá trị và thay đổi giá trị của phần tử số 5; 
+
+Bài 17: Hãy in ra màn hình số tương ứng với chữ H; 
+gợi ý: Bảng mã ASCII 
+Bài 18: Duyệt ước nâng cao
+Hãy duyệt các ước của 1 con số khi dùng vòng lặp sao cho giá trị kết thúc là sqrt(n); 
+Bài 19: Gán giá trị 
+hãy viết chương trình nhập vào 1 giá trị của biến a và xuất giá trị của biến c; 
+input a = 10; output c = 10; 
+Bài 20: Ngày tháng năm: 
+Kiểm tra xem năm vừa nhập có phải là năm nhuận không. 
+Bài 21: Nhập vào một chuỗi và xóa kí tự ' ' trong chuỗi đó
+input: Full stack; output: Fullstack
+
