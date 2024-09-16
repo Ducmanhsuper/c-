@@ -43,6 +43,8 @@ Bài 7: Hình tròn động:
 
 bán kính của một hình tròn được nhập từ bàn phím, số PI = 3.14; 
 hãy viết một chương trình in ra màn hình chu vi và diện tích của hình tròn đó; 
+gợi ý: c = 2*r*PI; 
+       s = r*r*PI; 
 
 Bài 8: Tháng ngày mong manh
 
